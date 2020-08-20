@@ -6,10 +6,9 @@
   <b>Your busy life deserves this</b></br>
   <sub>Organize your tasks, lists and reminders in one easy to use app.<sub>
 </p>
-<p align="center">
-  
+<p align="center"> 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
+</p>
 You know the phrase, "One man's trash is another man's treasure"? That's how I feel about to-do lists.
 
 After all, how you track your tasks depends entirely on the person. Are you looking for a simple interface, or are you hoping to <br />
