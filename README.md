@@ -13,10 +13,8 @@ You know the phrase, "One man's trash is another man's treasure"? That's how I f
 
 After all, how you track your tasks depends entirely on the person. Are you looking for a simple interface, or are you hoping to <br />
 categorize hundreds of tasks at once? Is this to-do list for yourself, you and your family, or you and your entire team? How much <br />
-do aesthetics matter?
+do aesthetics matter? <br />
 This App is 
-**Simple**
-**Flexible** and
-**Awesome**
+**Simple**, **Flexible** and **Awesome**
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
