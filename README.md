@@ -7,6 +7,7 @@
   <sub>Organize your tasks, lists and reminders in one easy to use app.<sub>
 </p>
 <p align="center">
+  
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 You know the phrase, "One man's trash is another man's treasure"? That's how I feel about to-do lists.
