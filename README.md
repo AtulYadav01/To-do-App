@@ -11,8 +11,8 @@
 
 You know the phrase, "One man's trash is another man's treasure"? That's how I feel about to-do lists.
 
-After all, how you track your tasks depends entirely on the person. Are you looking for a simple interface, or are you hoping to
-categorize hundreds of tasks at once? Is this to-do list for yourself, you and your family, or you and your entire team? How much
+After all, how you track your tasks depends entirely on the person. Are you looking for a simple interface, or are you hoping to <br />
+categorize hundreds of tasks at once? Is this to-do list for yourself, you and your family, or you and your entire team? How much <br />
 do aesthetics matter?
 This App is 
 **Simple**
