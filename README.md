@@ -7,7 +7,9 @@
   <sub>Organize your tasks, lists and reminders in one easy to use app.<sub>
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="5" />
+</p>
 
 You know the phrase, "One man's trash is another man's treasure"? That's how I feel about to-do lists.
 
@@ -17,7 +19,10 @@ do aesthetics matter? <br />
 This App is 
 **Simple**, **Flexible** and **Awesome**
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="5" />
+</p>
+
 </p>
 <p align="center">
   <b>Start Planning Today</b></p>
