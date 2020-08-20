@@ -6,7 +6,7 @@
   <b>Your busy life deserves this</b></br>
   <sub>Organize your tasks, lists and reminders in one easy to use app.<sub>
 </p>
-
+<p align="center">
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 You know the phrase, "One man's trash is another man's treasure"? That's how I feel about to-do lists.
@@ -18,6 +18,6 @@ This App is
 **Simple**, **Flexible** and **Awesome**
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
+</p>
 <p align="center">
   <b>Start Planning Today</b></p>
