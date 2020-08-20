@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/logo-shadow.png" alt="Logo" width="150" height="150" />
 </p>
-<h1 align="center">To do App</h1>
+<h1 align="center">To Do App</h1>
 <p align="center">
-  <b>Your busy life deserves this.</b></br>
+  <b>Your busy life deserves this</b></br>
   <sub>Organize your tasks, lists and reminders in one easy to use app.<sub>
 </p>
 
